@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kivi Corn
+- 👋 Hi, my name is Kivi Corn
 - 👀 I’m interested in all Front end frameworks, web accessibility, PHP, Laravel, and Drupal
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on any web dev related projects
