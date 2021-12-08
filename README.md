@@ -1,8 +1,12 @@
-- 👋  Hi, my name is Kivi Corn
-- 👀  I’m interested in all Front end frameworks, web accessibility, PHP, Laravel, and Drupal
-- 🌱  I’m currently progressing in full stack web development, with an emphasis on front end and web accessibility
-- 💞️  I’m looking to collaborate on any web dev related projects
-- 📫  How to reach me: kivi.webdev@gmail.com
+<h1 align="center">Hi 👋, I'm Kivi</h1>
+<h3 align="center">A passionate frontend developer from London</h3>
+
+👀 &nbsp; Interested in Front end frameworks, web accessibility, PHP and Firebase
+
+🌱 &nbsp; Progressing towards full stack web development, with an emphasis on Frontend technologies and Web accessibility
+
+📫 &nbsp; How to reach me: kivi.webdev@gmail.com
+
 
 <!---
 KCode100/KCode100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
