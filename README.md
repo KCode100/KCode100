@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kivi</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
-👀 &nbsp; Interested in Front end frameworks, web accessibility, PHP and Firebase
+👀 &nbsp; Interested in Front end frameworks, web accessibility, Next.js and Firebase
 
 🌱 &nbsp; Progressing towards full stack web development, with an emphasis on Frontend technologies and Web accessibility
 
