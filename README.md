@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kivi</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
+<h3 align="center">A passionate fullstack developer from London</h3>
 
-👀 &nbsp; Interested in Front end frameworks, web accessibility, Next.js and Firebase
+👀 &nbsp; Interested in Nextjs, PWA's, React Native, Firebase and Web Accessibility.
 
-🌱 &nbsp; Progressing towards full stack web development, with an emphasis on Frontend technologies and Web accessibility
+🌱 &nbsp; Currently learning and progressing in the AWS Cloud Solutions Architect path
 
 📫 &nbsp; How to reach me: kivi.webdev@gmail.com
 
