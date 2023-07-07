@@ -3,7 +3,7 @@
 
 👀 &nbsp; Interested in Nextjs, PWA's, Cross Platform Mobile Development (React Native & Capacitor), Serverless Architecture, and Web Accessibility.
 
-🌱 &nbsp; Currently learning and progressing in the AWS Cloud Solutions Architect path
+🌱 &nbsp; Currently progressing towards the AWS Cloud Solutions Architect certification
 
 📫 &nbsp; How to reach me: kivi.webdev@gmail.com
 
