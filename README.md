@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kivi</h1>
 <h3 align="center">A passionate fullstack developer from London</h3>
 
-👀 &nbsp; Interested in Nextjs, PWA's, React Native, Serverless Architecture, and Web Accessibility.
+👀 &nbsp; Interested in Nextjs, PWA's, Cross Platform Mobile Development (React Native & Capacitor), Serverless Architecture, and Web Accessibility.
 
 🌱 &nbsp; Currently learning and progressing in the AWS Cloud Solutions Architect path
 
